@@ -11,10 +11,9 @@ YOLO algorithm employs convolutional neural networks (CNN) to detect objects in 
 
 ## How does the YOLO Framework Function?
 YOLO first takes an input image:<br>
-https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/Screenshot-from-2018-11-15-17-43-42.png![image](https://user-images.githubusercontent.com/23136710/162576455-7f23dcda-12a5-495e-b2a8-174608ecceda.png)
+
 <br>
 The framework then divides the input image into grids (say a 3 X 3 grid):<br>
-https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/Screenshot-from-2018-11-15-17-46-32.png![image](https://user-images.githubusercontent.com/23136710/162576524-db6a22ad-e54e-45a3-9cdd-299dfa1bceea.png)
 
 <br>
 Image classification and localization are applied on each grid. YOLO then predicts the bounding boxes and their corresponding class probabilities for objects
