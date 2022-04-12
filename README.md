@@ -16,8 +16,8 @@ YOLO first takes an input image:<br>
 The framework then divides the input image into grids (say a 3 X 3 grid):<br>
 <br>
 Image classification and localization are applied on each grid. YOLO then predicts the bounding boxes and their corresponding class probabilities for objects
-## Porject Descriptions 
+### Porject Descriptions 
 
-## Licensing, Authors, Acknowledgements
+### Licensing, Authors, Acknowledgements
 
 
