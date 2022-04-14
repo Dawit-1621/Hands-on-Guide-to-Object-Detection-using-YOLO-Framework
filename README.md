@@ -5,9 +5,9 @@ It takes the entire image in a single instance and predicts the bounding box coo
 YOLO algorithm employs convolutional neural networks (CNN) to detect objects in real-time. 
 
 ### Installation
-- Clone darkent from GitHub </br>
+* Clone darkent from GitHub </br>
 !git clone https://github.com/AlexeyAB/darknet
-- Download pre-trained YOLOv4 weights
+* Download pre-trained YOLOv4 weights
 !wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 ### How does the YOLO Framework Function?
